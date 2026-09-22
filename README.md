@@ -66,7 +66,8 @@ We designed a full-stack, three-tier web application with the following proposed
        └──────────────┘ └───────────────────
 ```
 
-👤 My Contributions
+## 👤 My Contributions
+
 Sojas Singh Batra
 
 System architecture design
@@ -75,13 +76,14 @@ Security specifications
 Privacy and compliance requirements
 Technical system design documentation
 
-👥 Team
+## 👥 Team
 Sojas Singh Batra — System Architecture, Database Design, Security & Compliance Specifications
 Group Members — Client Analysis, UI/UX Workflow Design, and Documentation
 Course: First-Year Computer Science Group Project
 Institution: Toronto Metropolitan University
 Year: 2025–2026
-📚 Key Learnings
+
+## 📚 Key Learnings
 
 Through this project, I practiced:
 
@@ -92,7 +94,8 @@ Applying privacy and security principles to system design
 Considering PIPEDA requirements when designing data-handling processes
 Collaborating within a team using defined roles and responsibilities
 Creating technical documentation for a real-world business problem
-🔮 Future Development
+
+## 🔮 Future Development
 
 If implemented, the proposed system could be developed through the following steps:
 
@@ -103,12 +106,13 @@ Integrate SendGrid and Twilio for automated notifications.
 Implement privacy, consent, data retention, and audit logging features.
 Test the system against representative workflows and security requirements.
 Deploy the application using suitable cloud infrastructure.
-⚠️ Project Status
+
+## ⚠️ Project Status
 
 Status: System Design / Proposal
 
 This repository documents the analysis, architecture, database design, security specifications, and implementation plan for the proposed system. The technologies listed above represent the proposed implementation stack and were not all implemented as part of this project.
 
-📌 Disclaimer
+## 📌 Disclaimer
 
 This project was developed for academic purposes as part of a first-year Computer Science group project at Toronto Metropolitan University. Client information and project documentation should be treated as confidential where applicable.
